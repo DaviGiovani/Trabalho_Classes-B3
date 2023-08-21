@@ -3,10 +3,10 @@ Resolução do trabalho elaborado pelo professor Ricardo Petri
 
 ## Apresentação do Código
 Quando o código é executado, o programa apresenta o nome do restaurante e pede o nome do usuário (cliente); \n
-O programa então envia um menu de opções ao cliente, sendo elas:/n
-1 - Visualizar o cardápio;/n
-2 - Fazer pedido;/n
-3 - Visualizar a comanda;/n
+O programa então envia um menu de opções ao cliente, sendo elas:\n
+1 - Visualizar o cardápio;\n
+2 - Fazer pedido;\n
+3 - Visualizar a comanda;\n
 4 - Comer;/n
 5 - Pagar;/n
 6 - Sair./n
